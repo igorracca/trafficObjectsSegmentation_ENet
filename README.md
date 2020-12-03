@@ -5,7 +5,7 @@ Multi-object segmentation on traffic elements.
 
 **Important!**
 
-This is a simple project with purposes of visualization only.
+This is a simple project for visualization purposes only.
 
 ## Contributions
 
