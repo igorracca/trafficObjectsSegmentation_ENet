@@ -9,9 +9,9 @@ This is a simple project for visualization purposes only.
 
 ## Contributions
 
-1.The authors of the ENet - A. Paszke, A. Chaurasia, S. Kim, E. Culurciello (https://arxiv.org/abs/1606.02147)
+1. The authors of the ENet - A. Paszke, A. Chaurasia, S. Kim, E. Culurciello (https://arxiv.org/abs/1606.02147)
 
-2.Adrian Rosebrock at PyImageSearch (https://www.pyimagesearch.com/)
+2. Adrian Rosebrock at PyImageSearch (https://www.pyimagesearch.com/)
 
 ## Installation
 
