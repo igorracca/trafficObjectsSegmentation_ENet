@@ -3,6 +3,7 @@
 Multi-object segmentation on traffic elements.
 
 **Important!**
+
 This is a simple project with purposes of visualization only.
 
 ## Contributions
@@ -29,3 +30,8 @@ The input images should be put within the folder ./images
 
 ## Additional Information
 
+This ENet work has been published in arXiv: ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation.
+
+The ENet can be trained by yourself. You can find a tutorial here (https://github.com/TimoSaemann/ENet/tree/master/Tutorial)
+
+This code can be modified and used to videos as well, however it is not viable for real-time segmentation
